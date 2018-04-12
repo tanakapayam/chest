@@ -1,0 +1,34 @@
+# github.com/Shopify/ejson v0.0.0-20180709182837-977f8d77a9d2
+github.com/Shopify/ejson
+github.com/Shopify/ejson/crypto
+github.com/Shopify/ejson/json
+# github.com/docopt/docopt-go v0.0.0-20180111231733-ee0de3bc6815
+github.com/docopt/docopt-go
+# github.com/dustin/gojson v0.0.0-20160307161227-2e71ec9dd5ad
+github.com/dustin/gojson
+# github.com/fatih/color v1.7.0
+github.com/fatih/color
+# github.com/mattn/go-colorable v0.0.9
+github.com/mattn/go-colorable
+# github.com/mattn/go-isatty v0.0.3
+github.com/mattn/go-isatty
+# github.com/sirupsen/logrus v1.0.6
+github.com/sirupsen/logrus
+# golang.org/x/crypto v0.0.0-20180723164146-c126467f60eb
+golang.org/x/crypto/openpgp
+golang.org/x/crypto/ssh/terminal
+golang.org/x/crypto/openpgp/armor
+golang.org/x/crypto/openpgp/errors
+golang.org/x/crypto/openpgp/packet
+golang.org/x/crypto/openpgp/s2k
+golang.org/x/crypto/nacl/box
+golang.org/x/crypto/cast5
+golang.org/x/crypto/openpgp/elgamal
+golang.org/x/crypto/curve25519
+golang.org/x/crypto/nacl/secretbox
+golang.org/x/crypto/salsa20/salsa
+golang.org/x/crypto/internal/subtle
+golang.org/x/crypto/poly1305
+# golang.org/x/sys v0.0.0-20180727230415-bd9dbc187b6e
+golang.org/x/sys/unix
+golang.org/x/sys/windows
